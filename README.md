@@ -5,7 +5,10 @@ npm install
 
 npm start
 
-The Project is deployed [MyBurger](https://react-my-burger-c0f47.firebaseapp.com/).
+
+## Deployed
+[MyBurger](https://react-my-burger-c0f47.firebaseapp.com/).
+
 
 ## Technologies 
 React.js / JS / Redux / HTML / CSS
