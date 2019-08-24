@@ -1,10 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 ## Run the Application With
-npm install
+npm install then
 npm start
 
-The website is deployed on [MyBurger](https://react-my-burger-c0f47.firebaseapp.com/).
+The website is deployed [MyBurger](https://react-my-burger-c0f47.firebaseapp.com/).
+
+## Technologies 
+React.js / JS / Redux / HTML / CSS
 
 ## Folder Structure
 
